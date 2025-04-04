@@ -1,5 +1,3 @@
-# T
-MERAVRS PROIJKT
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -95,5 +93,3 @@ MERAVRS PROIJKT
   </div>
 </body>
 </html>
-
-
